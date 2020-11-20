@@ -8,7 +8,7 @@
 
 ## L3: Centralities, Cores
 
-## L4: Data Scraping
+## L4: Web Scraping
 * [Raw Video](https://youtu.be/muPKRInsKdw)
 * [Seminar materials](https://github.com/karpovilia/SNA_DJ_2020/tree/master/Seminar%204%20-%20Data%20Scraping)
 * Useful links:
