@@ -15,7 +15,7 @@
 
 ## L4: Web Scraping
 * [Raw Video](https://youtu.be/muPKRInsKdw)
-* [Seminar materials](https://github.com/karpovilia/SNA_DJ_2020/tree/master/Seminar%204%20-%20Data%20Scraping)
+* [Seminar materials](https://github.com/karpovilia/SNA_DJ_2020/tree/master/Seminar%204%20-%20Web%20Scraping)
 * Literature:
     * [Web Scraping with Python](https://yanfei.site/docs/dpsa/references/PyWebScrapingBook.pdf)
 * Useful links:
