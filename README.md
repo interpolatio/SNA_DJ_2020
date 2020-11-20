@@ -10,7 +10,7 @@
 ## L2: Network properties, networkx visualization
 * [Raw Video](https://youtu.be/phYSKxdrppc)
 * [Презентация](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL2IvcyFBdldqdXEtLW5zblNrYWxlVHg0M3RoVjk2c3k1aGc/root/content)
-* [Seminar notebooks]()
+* [Seminar notebooks](https://github.com/karpovilia/SNA_DJ_2020/tree/master/Seminar%202%20-%20Network%20properties%2C%20networkx%20visualization)
 ## L3: Centralities, Cores
 * [Raw Video](https://youtu.be/H0M4FHRvz90)
 
