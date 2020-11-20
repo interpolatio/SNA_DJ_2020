@@ -9,13 +9,14 @@
 
 ## L2: Network properties, networkx visualization
 * [Raw Video](https://youtu.be/phYSKxdrppc)
-
+* [Презентация](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL2IvcyFBdldqdXEtLW5zblNrYWxlVHg0M3RoVjk2c3k1aGc/root/content)
+* [Seminar notebooks]()
 ## L3: Centralities, Cores
 * [Raw Video](https://youtu.be/H0M4FHRvz90)
 
 ## L4: Web Scraping
 * [Raw Video](https://youtu.be/muPKRInsKdw)
-* [Seminar materials](https://github.com/karpovilia/SNA_DJ_2020/tree/master/Seminar%204%20-%20Web%20Scraping)
+* [Seminar notebooks](https://github.com/karpovilia/SNA_DJ_2020/tree/master/Seminar%204%20-%20Web%20Scraping)
 * Literature:
     * [Web Scraping with Python](https://yanfei.site/docs/dpsa/references/PyWebScrapingBook.pdf)
 * Useful links:
