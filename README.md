@@ -3,7 +3,7 @@
 # Структура курса:
 
 ## L1: Introduction, gephi visualisation
-* [Working with Gephi](https://youtu.be/    jYSOh-v4kxo)
+* [Working with Gephi](https://youtu.be/jYSOh-v4kxo)
 * Literature:
     * [Python for Graph and Network Analysis](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL2IvcyFBdldqdXEtLW5zblNrYWxNWUpyUGFpdVl1UzlHN1E_ZT1mTmpEYTM/root/content)
 
