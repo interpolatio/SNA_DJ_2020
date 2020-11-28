@@ -23,7 +23,9 @@
     * [Encoding Converter](https://convertcodes.com/utf16-encode-decode-convert-string/)
     * [Json Formatter](http://json.parser.online.fr/beta/)
 
-## L5: Methodology, text clustering, Communities, Structural eq, Blockmodelling
+## L5: Scraping Methodology, Clustering, Communities, Blockmodelling
+* [Raw Video](https://youtu.be/tZPGslmxxyU)
+* [Seminar notebooks](https://github.com/karpovilia/SNA_DJ_2020/tree/master/Seminar%205%20-%20Clustering%2C%20Communities%2C%20Blockmodelling)
 
 ## L6: Network Embeddings, User Profiling
 
