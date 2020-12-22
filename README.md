@@ -28,8 +28,10 @@
 * [Seminar notebooks](https://github.com/karpovilia/SNA_DJ_2020/tree/master/Seminar%205%20-%20Clustering%2C%20Communities%2C%20Blockmodelling)
 
 ## L6: Network Embeddings, User Profiling
+* [Raw Video](https://youtu.be/cFGN0_JNEKw)
 
 ## L7: Social media and information flow in networks
+* [Raw Video](https://youtu.be/JsSK3PAnpwA)
 
-## L8: Text Analysis & Social Networks
-
+## L8: Advanced Text Mining and Language Modelling
+* [Raw Video](https://youtu.be/KaApH4nt5k0)
